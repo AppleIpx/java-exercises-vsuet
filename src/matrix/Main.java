@@ -10,7 +10,6 @@ public class Main {
         System.out.println("Введите кол-во колонн");
         int colums = scanner1.nextInt();
         Matrix matrix = new Matrix(rows, colums);
-        //Matrix matrixs = new Matri();
         System.out.println("Исходная матрица:" + matrix);
         System.out.println("Транспонированная матрица" + matrix.transf());
     }
