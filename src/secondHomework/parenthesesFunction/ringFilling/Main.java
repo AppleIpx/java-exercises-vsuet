@@ -10,6 +10,7 @@ public class Main {
         System.out.println("Введите ширину");
         int colums = scanner1.nextInt();
         Matrix matrix = new Matrix(rows, colums);
+        matrix.filingRing();
         System.out.println(matrix);
     }
 }
