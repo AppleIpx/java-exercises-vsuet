@@ -1,4 +1,4 @@
-package secondHomework.parenthesesFunction.ringFilling;
+package secondHomework.parenthesesFunction.fillingTheMatrixWithARing;
 
 import java.util.Scanner;
 

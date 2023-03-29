@@ -1,4 +1,4 @@
-package secondHomework.parenthesesFunction.ringFilling;
+package secondHomework.parenthesesFunction.fillingTheMatrixWithARing;
 
 public class Matrix {
     private static final int ONE = 1;
