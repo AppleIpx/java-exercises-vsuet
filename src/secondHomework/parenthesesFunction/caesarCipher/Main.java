@@ -11,6 +11,5 @@ public class Main {
         int step = scanner1.nextInt();
         Caesar caesar = new Caesar();
         System.out.println(caesar.encryption(userText, step));
-
     }
 }
