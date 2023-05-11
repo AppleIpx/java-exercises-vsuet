@@ -17,8 +17,8 @@ public class Matrix {
 
     public String transf() {
         String mat = "\n";
-        for (int i = 0; i < matrix[i].length; i++) {
-            for (int j = 0; j < matrix.length; j++) {
+        for (int i = 0; i < matrix.length; i++) {
+            for (int j = 0; j < matrix[i].length; j++) {
                 mat += matrix[j][i] + " ";
             }
             mat += "\n";
